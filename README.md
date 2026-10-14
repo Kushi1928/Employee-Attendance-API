@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Attendance and Analytics API
 
 A FastAPI service backed by MongoDB. It stores employees and one attendance record per employee per IST attendance day. It supports punch-in/out, audited HR corrections, paginated searches, monthly and department analytics, late ranking, daily trends, and MongoDB explain output. All application code is in `app/main.py` as requested.
@@ -50,3 +51,6 @@ The service stores instants as UTC BSON dates and exposes them as epoch millisec
 - `DATA_MODEL.md`: MongoDB collections and data conventions.
 - `REVIEW.md`: starter defects and their fixes.
 - `DECISIONS.md`: index, concurrency, ranking, headcount, and scale decisions.
+=======
+# Employee-Attendance-API
+>>>>>>> 8eeb7e65d8ebca3c1fccc902961458029a969ac1
